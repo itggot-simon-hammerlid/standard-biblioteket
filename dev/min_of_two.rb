@@ -8,8 +8,5 @@
 #   min_of_two(2,5)
 #   # => 2
 #
-# Returns the smaller number. 
-def newnumber(orgnum)
-return orgnum + 1
-end
-
+# Returns the smaller number.
+def min_of_two(num1, num2)

@@ -1,5 +1,14 @@
+# Public: Cubes a number.
+#
+# orgnum - The Integer that will be cubed.
+#
+# Examples
+#
+#   cubed(4)
+#   # => 64
+#
+# Returns the cubed number.
 def cubed(orgnum)
-    puts orgnum * orgnum * orgnum
+    return orgnum * orgnum * orgnum
 end
 
-cubed(5)

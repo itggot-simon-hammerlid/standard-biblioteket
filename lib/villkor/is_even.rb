@@ -3,7 +3,6 @@ def is_even(orgnum)
     if orgnum % 2 == 0
         output = "true"
     end
-    puts output
+    return output
 end
 
-is_even(8)

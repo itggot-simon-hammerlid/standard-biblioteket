@@ -3,7 +3,6 @@ def is_negative(orgnum)
     if orgnum <= 0 
         output = "true"
     end
-    puts output
+    return output
 end
 
-is_negative(2)

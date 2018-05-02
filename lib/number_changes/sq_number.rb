@@ -1,5 +1,4 @@
 def square(orgnum)
-    puts orgnum * orgnum
+    return orgnum * orgnum
 end
 
-square(5)

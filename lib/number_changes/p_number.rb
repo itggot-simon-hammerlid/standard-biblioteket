@@ -1,5 +1,4 @@
 def previousnumber(orgnum)
-puts orgnum - 1
+return orgnum - 1
 end
 
-previousnumber(5)
