@@ -10,3 +10,12 @@
 #
 # Returns the smaller number.
 def min_of_two(num1, num2)
+    if num1 >= num2
+        output = num2
+    else output = num1
+    end
+    return output
+end
+
+        
+    

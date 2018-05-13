@@ -1,4 +1,4 @@
-# Public: Compares two numbers, returns smallest number.
+# Public: Finds the next number after .
 #
 # num1 - Number that will be compared.
 # num2 - Number that will be compared.
