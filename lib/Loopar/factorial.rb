@@ -15,5 +15,3 @@ def factorial(num)
     output = product
     return output
 end
-
-puts factorial(0)
